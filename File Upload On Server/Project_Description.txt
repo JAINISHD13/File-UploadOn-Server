@@ -1,0 +1,13 @@
+Project Name: File Uploading on Server
+
+Preapared By: Jainish Dabhi 
+
+Concept Used :  Thread
+		Socket Programming
+		Exception handling
+		Inheritance
+		Java String
+		Java I/O
+
+Description: By using this java application, we can upload file from any client to server.
+	     Once sever has started running, clients can upload their file any time.	
